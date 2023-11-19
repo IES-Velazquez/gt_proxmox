@@ -64,13 +64,13 @@ En este ámbito, el alumnado puede adoptar un papel activo dado el manejo de las
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------: | :-------------------: |
 |    **Formación del profesorado respecto al uso y funcionamiento de Proxmox**     |         <p>noviembre 2023</p><p>diciembre 2023</p>          |  Miembros del grupo   |
 |      **Formación del alumnado respecto al uso y funcionamiento de Proxmox**      |                       diciembre 2023                        |  Miembros del grupo   |
-|                         **Montaje del servidor Proxmox**                         |           <p>diciembre 2023</p><p>enero 2023</p>            |  Miembros del grupo   |
-|               **Instalación y configuración del servidor Proxmox**               | <p>noviembre 2023</p><p>diciembre 2023</p><p>enero 2023</p> |  Miembros del grupo   |
-|                        **Pruebas de eficiencia y mejora**                        |            <p>febrero 2023</p><p>marzo 2023</p>             |  Miembros del grupo   |
-|                   **Pruebas de acceso remoto desde el hogar**                    |                        febrero 2023                         |  Miembros del grupo   |
-| **Creación de scripts específicos para la mejora del funcionamiento de Proxmox** |                 noviembre 2023 a junio 2023                 | Coordinador del grupo |
-|    **Documentación en formato Wiki de los usos cotidianos de funcionamiento**    |                 noviembre 2023 a junio 2023                 |  Miembros del grupo   |
-|      **Elaboración de memoria con especificación de los logros obtenidos**       |                         junio 2023                          | Coordinador del grupo |
+|                         **Montaje del servidor Proxmox**                         |           <p>diciembre 2023</p><p>enero 2024</p>            |  Miembros del grupo   |
+|               **Instalación y configuración del servidor Proxmox**               | <p>noviembre 2023</p><p>diciembre 2023</p><p>enero 2024</p> |  Miembros del grupo   |
+|                        **Pruebas de eficiencia y mejora**                        |            <p>febrero 2024</p><p>marzo 2024</p>             |  Miembros del grupo   |
+|                   **Pruebas de acceso remoto desde el hogar**                    |                        febrero 2024                         |  Miembros del grupo   |
+| **Creación de scripts específicos para la mejora del funcionamiento de Proxmox** |                 noviembre 2023 a mayo 2024                  | Coordinador del grupo |
+|    **Documentación en formato Wiki de los usos cotidianos de funcionamiento**    |                 noviembre 2024 a mayo 2024                  |  Miembros del grupo   |
+|      **Elaboración de memoria con especificación de los logros obtenidos**       |                          mayo 2024                          | Coordinador del grupo |
 
 # Medio de comunicación
 
