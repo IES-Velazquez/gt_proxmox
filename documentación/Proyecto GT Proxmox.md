@@ -28,8 +28,8 @@ Los objetivos del vigente grupo de trabajo son los siguientes:
 - Instalación y configuración del servidor Proxmox
 - Pruebas de eficiencia y mejora
 - Pruebas de acceso remoto desde el hogar
-- Creación de scripts específicos para la mejora del funcionamiento de Proxmox
-- Documentación en formato Wiki de los usos cotidianos de funcionamiento
+- Creación de scripts específicos
+- Documentación en formato Wiki de los usos cotidianos
 
 # Repercusión del grupo de trabajo
 
@@ -84,7 +84,7 @@ Enlace o acceso: https://github.com/IES-Velazquez/gt_proxmox
 
 Medio que se va a utilizar como foro de debate: GitHub.com
 
-Enlace o acceso: https://github.com/orgs/IES-Velazquez/projects/1
+Enlace o acceso: https://github.com/IES-Velazquez/gt_proxmox
 
 - Comunicación de la asesoría con los participantes
 
